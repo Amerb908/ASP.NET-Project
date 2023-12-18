@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a web application designed to facilitate the collection and management of jokes, consisting of a question and an answer. In order to contribute jokes to the collection, users are required to sign in, ensuring a controlled and authenticated environment.
+This project is a web application designed to facilitate the collection and management of jokes, consisting of a question and an answer. To contribute jokes to the collection, users are required to sign in, ensuring a controlled and authenticated environment.
 
 ## Key Features
 
@@ -22,6 +22,4 @@ To get started with the project, follow these steps:
 
 4. **Sign In**: Sign in to the application to access the joke management features.
 
-## Contact
-
-For inquiries or feedback related to the project, please contact [Your Name] via [Your Contact Information].
+I will continue to update this project in the later future
